@@ -26,6 +26,10 @@ tie for 3rd place in the sample data).
 
 Guidelines
 -----------
+We’ve been on the implementing side of coding tests in many interviews where the
+problem is meant to be unexpectedly complex or full of “gotchas”. Those are bullshit
+and this isn’t meant to be one of those.
+
 This should be implemented in a language with which you are familiar. We would
 prefer that you use ruby or javascript, if you are comfortable doing so. If none
 of these are comfortable, please choose a language that is both comfortable for
