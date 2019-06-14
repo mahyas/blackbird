@@ -31,9 +31,8 @@ problem is meant to be unexpectedly complex or full of “gotchas”. Those are 
 and this isn’t meant to be one of those.
 
 This should be implemented in a language with which you are familiar. We would
-prefer that you use ruby or javascript, if you are comfortable doing so. If none
-of these are comfortable, please choose a language that is both comfortable for
-you and suited to the task.
+prefer that you use ruby or javascript, if you are comfortable doing so, but if
+you can best shine in another language, go for it!
 
 Your solution should be able to be run (and if applicable, built) from the
 command line. Please include appropriate scripts and instructions for
