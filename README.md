@@ -57,4 +57,4 @@ possible (line-endings and file-path-separators are two problematic areas).
 
 Submission
 ----------
-Please submit your solution by pushing up a branch to your Github repo and open a PR. Add Github users `amay` and `eagsalazar` as reviewers.
+Please submit your solution by pushing up a branch to your Github repo and open a PR. Add Github users `amay`, `jessecurry`, and `eagsalazar` as reviewers.
