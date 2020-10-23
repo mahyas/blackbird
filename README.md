@@ -1,4 +1,4 @@
-The Problem
+ The Problem
 ===========
 We want you to create a command-line application that will calculate the
 ranking table for a hockey league.
