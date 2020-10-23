@@ -1,22 +1,4 @@
-To run the code:        npm install      
-Install jest:   
-npm i jest --save-dev
-npm i jest-cli -g   
- 
-
-In order to run code, you need to enter the command in the following form:   node index.js <inputfile.txt>     
-Run jest:   
-jest <fileName>.test.js   
- 
-To check extreme situations, use the following inputs:
-Original input: sample.input.txt
-Empty table: sample.input.2.txt
-One team wins all the games:  sample.input.3.txt
-One team loses all the games: sample.input.4.txt
-All the teams have equal points: sample.input.5.txt
-
-Explanation: In this solution, the teams are sorted using mergeSort, because it's a very fast sorting algorithm that gives us O(n logn) time complexity.
-Team name, number of goals scored, number of goals received, and the number of games played are calculated in "calculateTeamPoints", in case we need them in future while expanding the app.  
+ The Problem
 ===========
 We want you to create a command-line application that will calculate the
 ranking table for a hockey league.
